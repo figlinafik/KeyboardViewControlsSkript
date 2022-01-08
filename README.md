@@ -1,2 +1,3 @@
 # key_control_turn
- papyrus control turn left ring 
+ attempt control turn left ring 
+попытка управление движением игрока влево и вправо.
